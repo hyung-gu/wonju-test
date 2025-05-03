@@ -136,6 +136,7 @@ section div {
 .tel{
     color: var(--point-color);
     font-size: 3rem;
+    text-decoration-line: none;
 }
 
 .tel-link{
